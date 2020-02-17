@@ -1,0 +1,11 @@
+C:\WorkSpace\visual studio\iess\iess\bin\Debug\netcoreapp3.1\iess.exe
+C:\WorkSpace\visual studio\iess\iess\bin\Debug\netcoreapp3.1\iess.deps.json
+C:\WorkSpace\visual studio\iess\iess\bin\Debug\netcoreapp3.1\iess.runtimeconfig.json
+C:\WorkSpace\visual studio\iess\iess\bin\Debug\netcoreapp3.1\iess.runtimeconfig.dev.json
+C:\WorkSpace\visual studio\iess\iess\bin\Debug\netcoreapp3.1\iess.dll
+C:\WorkSpace\visual studio\iess\iess\bin\Debug\netcoreapp3.1\iess.pdb
+C:\WorkSpace\visual studio\iess\iess\obj\Debug\netcoreapp3.1\iess.csprojAssemblyReference.cache
+C:\WorkSpace\visual studio\iess\iess\obj\Debug\netcoreapp3.1\iess.AssemblyInfoInputs.cache
+C:\WorkSpace\visual studio\iess\iess\obj\Debug\netcoreapp3.1\iess.AssemblyInfo.cs
+C:\WorkSpace\visual studio\iess\iess\obj\Debug\netcoreapp3.1\iess.dll
+C:\WorkSpace\visual studio\iess\iess\obj\Debug\netcoreapp3.1\iess.pdb
